@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "702314729150",
+    "firebase_url": "https://doodh-60227.firebaseio.com",
+    "project_id": "doodh-60227",
+    "storage_bucket": "doodh-60227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702314729150:android:cf0d0a4ae4073878",
+        "android_client_info": {
+          "package_name": "com.multirest.vishalverma.doodhmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702314729150-261uc2e116ijjrrf5vok6grgk7muhumk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multirest.vishalverma.doodhmaster",
+            "certificate_hash": "811f1c9daae5c419757b8e3438843d80ed5b314c"
+          }
+        },
+        {
+          "client_id": "702314729150-h6nto6af4gt01fs4ihl9qp93c984bfqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhx90X5UuRo2UD1TjgKZidRDFhzkd7bA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702314729150-h6nto6af4gt01fs4ihl9qp93c984bfqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
